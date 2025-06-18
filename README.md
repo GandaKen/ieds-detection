@@ -19,7 +19,7 @@ ieds-detection/
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>.git
+git clone https://github.com/GandaKen/ieds-detection.git
 cd ieds-detection
 ```
 
